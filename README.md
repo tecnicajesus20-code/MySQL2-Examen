@@ -21,7 +21,6 @@ Y con la variable v_fechafin inserte dentro de la tabla
 
 # Prueba de consulta
 
-![prueba de consulta](/home/camper/Escritorio/MySQL2-Examen/Pruebas/imagen_prueba.png)
-
+![prueba de consulta](Pruebas/imagen_prueba.png)
 
 
